@@ -1,0 +1,11 @@
+# Compiled Java output — never commit build artifacts
+bin/
+*.class
+
+# VS Code local settings
+.vscode/
+
+# Local command-history / scratch notes
+CMDS
+link
+link.txt
